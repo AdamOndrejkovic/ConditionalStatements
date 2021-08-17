@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\ref\IfHasNeighbour.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\bin\Debug\net5.0\IfHasNeighbour.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\ref\IfHasNeighbour.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfHasNeighbour\obj\Debug\net5.0\IfHasNeighbour.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\ref\PositiveNegativeZero.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\bin\Debug\net5.0\PositiveNegativeZero.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\ref\PositiveNegativeZero.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\PositiveNegativeZero\obj\Debug\net5.0\PositiveNegativeZero.genruntimeconfig.cache

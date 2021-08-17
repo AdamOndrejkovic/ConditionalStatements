@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\ref\IsEven.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\bin\Debug\net5.0\IsEven.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\ref\IsEven.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IsEven\obj\Debug\net5.0\IsEven.genruntimeconfig.cache

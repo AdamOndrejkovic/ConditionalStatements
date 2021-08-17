@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\ref\IfNumberContains3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\bin\Debug\net5.0\IfNumberContains3.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\ref\IfNumberContains3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfNumberContains3\obj\Debug\net5.0\IfNumberContains3.genruntimeconfig.cache

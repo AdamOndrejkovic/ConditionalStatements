@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\ref\GreaterThanThird.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\bin\Debug\net5.0\GreaterThanThird.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\ref\GreaterThanThird.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\GreaterThanThird\obj\Debug\net5.0\GreaterThanThird.genruntimeconfig.cache

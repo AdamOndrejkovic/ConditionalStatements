@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DivisibleBy2Or3/1.0.0": {
+        "runtime": {
+          "DivisibleBy2Or3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DivisibleBy2Or3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

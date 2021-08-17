@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\ref\AbsoluteValue.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\bin\Debug\net5.0\AbsoluteValue.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\ref\AbsoluteValue.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\AbsoluteValue\obj\Debug\net5.0\AbsoluteValue.genruntimeconfig.cache

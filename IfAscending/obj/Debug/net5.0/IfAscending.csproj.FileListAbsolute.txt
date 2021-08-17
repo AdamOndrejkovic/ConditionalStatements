@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\ref\IfAscending.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\bin\Debug\net5.0\IfAscending.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\ref\IfAscending.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfAscending\obj\Debug\net5.0\IfAscending.genruntimeconfig.cache

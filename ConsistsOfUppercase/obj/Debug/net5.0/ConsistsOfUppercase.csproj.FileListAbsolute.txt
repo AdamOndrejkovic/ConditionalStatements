@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ref\ConsistsOfUppercase.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\bin\Debug\net5.0\ConsistsOfUppercase.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ref\ConsistsOfUppercase.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\ConsistsOfUppercase\obj\Debug\net5.0\ConsistsOfUppercase.genruntimeconfig.cache

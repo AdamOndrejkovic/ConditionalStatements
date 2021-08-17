@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\ref\DivisibleBy2Or3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\bin\Debug\net5.0\DivisibleBy2Or3.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\ref\DivisibleBy2Or3.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\DivisibleBy2Or3\obj\Debug\net5.0\DivisibleBy2Or3.genruntimeconfig.cache

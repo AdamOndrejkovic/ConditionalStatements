@@ -1,0 +1,16 @@
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.exe
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.deps.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.runtimeconfig.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.runtimeconfig.dev.json
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\ref\IfLeapYear.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\bin\Debug\net5.0\IfLeapYear.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\ref\IfLeapYear.dll
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.pdb
+C:\Users\adamo\RiderProjects\ConditionalStatements\IfLeapYear\obj\Debug\net5.0\IfLeapYear.genruntimeconfig.cache
